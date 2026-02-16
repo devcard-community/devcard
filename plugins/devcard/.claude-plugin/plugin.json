@@ -1,0 +1,9 @@
+{
+  "name": "devcard",
+  "description": "Interactive terminal-based developer profile cards. Create, publish, and browse devcards powered by Claude.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Shay Segal"
+  },
+  "keywords": ["devcard", "profile", "ascii-art", "developer-tools"]
+}

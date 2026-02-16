@@ -1,0 +1,17 @@
+name: No Claude
+title: Analog Developer
+bio: Prefers pen and paper.
+
+stack:
+  languages:
+    - C
+    - Assembly
+
+interests:
+  - hardware
+  - embedded systems
+
+projects:
+  - name: bare-metal-os
+    description: Operating system from scratch
+    status: wip

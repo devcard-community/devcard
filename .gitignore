@@ -1,0 +1,19 @@
+node_modules/
+*.log
+.DS_Store
+
+# Environment / secrets
+.env
+.env.*
+
+# Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test output
+coverage/
+
+# Internal test docs
+plugins/devcard/tests/MANUAL-TEST-PLAN.md

@@ -1,0 +1,30 @@
+name: Legacy Dev
+title: Backend Engineer
+location: Austin, TX
+archetype: The Builder
+bio: Writing code since dial-up.
+
+stack:
+  languages:
+    - Java
+    - Python
+
+interests:
+  - open source
+  - retro computing
+
+projects:
+  - name: old-school-api
+    description: REST API built the classic way
+    status: shipped
+
+dna: Solid foundations over shiny frameworks.
+
+claude:
+  style: The Steady Hand
+  sessions: 100
+  messages: 5000
+  since: 2024-01-10
+  model: claude-sonnet-4-5-20250929
+  rhythm: steady
+  hour_distribution: [0, 0, 0, 0, 0, 1, 3, 8, 15, 22, 25, 20, 18, 16, 22, 19, 14, 8, 3, 1, 0, 0, 0, 0]
